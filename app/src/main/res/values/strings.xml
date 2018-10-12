@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CCS004</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPassword">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="item_name">Item Name</string>
+    <string name="register_account">Register Account</string>
+    <string name="telephone_optional">Telephone (Optional(</string>
+</resources>
